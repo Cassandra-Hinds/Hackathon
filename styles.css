@@ -1,0 +1,32 @@
+body {
+    margin-bottom: 20px;
+    background-color: aliceblue;
+}
+img
+ {
+    display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.39);
+}
+
+video{
+    margin-top: 60px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.39);
+
+}
+.start-text
+ {
+    margin-top: 200px;
+    
+}
+
+.you-get-to-tell-us-text {
+    margin-top: 100px;
+}
+
+.theorize-text{
+    margin-top: 110px;
+}
