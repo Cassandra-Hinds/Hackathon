@@ -4,22 +4,45 @@ body {
 }
 img
  {
-    display: block;
-    margin: 0 auto;
+   
     margin-top: 60px;
     border-radius: 5px;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.39);
+
 }
 
 video{
     margin-top: 60px;
     border-radius: 5px;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.39);
+    width: 100%;
+    height: auto;
 
+}
+
+.pic{
+    height: 500px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+
+   
+}
+
+.brain-pic{
+    display: block;
+    margin: 0 auto;
+}
+.dou{
+    flex-direction: row;
+}
+
+.start{
+    margin-left: 100px;
 }
 .start-text
  {
-    margin-top: 200px;
+    margin-top: 100px;
     
 }
 
