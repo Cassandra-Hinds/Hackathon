@@ -1,6 +1,7 @@
 body {
-    margin-bottom: 20px;
+   
     background-color: aliceblue;
+    margin: 40px 40px 40px 40px;
 }
 img
  {
@@ -47,11 +48,11 @@ video{
 }
 
 .you-get-to-tell-us-text {
-    margin-top: 100px;
+    margin-top: 60px;
 }
 
 .theorize-text{
-    margin-top: 110px;
+    margin-top: 55px;
 }
 
 
