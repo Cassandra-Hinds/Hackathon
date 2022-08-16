@@ -1,7 +1,9 @@
 body {
+   font-size: 20px; 
+ 
+   background-color: #f1efdc;
+   margin: 0px 40px 40px 40px;
    
-    background-color: rgba(128, 128, 128, 0.356);
-    margin: 40px 40px 40px 40px;
 }
 img
  {
@@ -65,7 +67,15 @@ video{
     justify-content: center;
    
 }
-
+.crutches{
+    margin-top: 100px;
+}
+.rope {
+    margin-top: 5px;
+}
+.thailand{
+    margin-top: 5px;
+}
 .move {
 
     margin-left: 70px;
